@@ -5,4 +5,5 @@ resource "aws_instance" "ec2_demo"{
    tags{
     Name = "linux_practice
    } 
+   
 }
