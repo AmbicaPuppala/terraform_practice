@@ -3,7 +3,7 @@ resource "aws_instance" "ec2_demo"{
     instance_type = "t2.micro"
 
    tags{
-    Name = "linux_practice
+    Name = "linux_practice"
    } 
-   
+
 }
